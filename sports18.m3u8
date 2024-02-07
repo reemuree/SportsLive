@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,BANDWIDTH=8100000,FRAME-RATE=30
-http://iptv.padmaflix.net:8080/live/padmaflix/padmaflix/418.m3u8
+http://iptv.padmaflix.net:8080/live/padmaonline/padmaonline/418.m3u8
