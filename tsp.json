@@ -10,7 +10,7 @@
       "logo": "https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg",
       "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
       "headers": {
-        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1711702923:KeyName=tsports-ed25519-01:Signature=W93KlIDGVgwgoLJcUJkESXL9_VkY1jroqVdOUEVzHL6N_zom5j9I2eK1N7sowLqHgd0U2JNns17IeRtE5f0KBg",
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1711883467:KeyName=tsports-ed25519-01:Signature=jcvpfvIWoUPHQZOfeSgbjnaKGvDuy0A-NqgVp6sARojjrnmcutVSnPqGFyn8-P_j6ghJDdARlhsIPjiVcPpuDA",
         "Host": "live-cdn.tsports.com",
         "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
       }
@@ -21,7 +21,7 @@
       "logo": "https://image.tsports.com/images/contents/thumbnail/691/mobile_logo_LIVE(1)_64e4dd8e16430.jpg",
       "link": "https://live-cdn.tsports.com/live-01/index.m3u8",
       "headers": {
-        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1711702923:KeyName=tsports-ed25519-01:Signature=W93KlIDGVgwgoLJcUJkESXL9_VkY1jroqVdOUEVzHL6N_zom5j9I2eK1N7sowLqHgd0U2JNns17IeRtE5f0KBg",
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1711883467:KeyName=tsports-ed25519-01:Signature=jcvpfvIWoUPHQZOfeSgbjnaKGvDuy0A-NqgVp6sARojjrnmcutVSnPqGFyn8-P_j6ghJDdARlhsIPjiVcPpuDA",
         "Host": "live-cdn.tsports.com",
         "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
       }
