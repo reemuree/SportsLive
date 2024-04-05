@@ -10,7 +10,7 @@
       "logo": "https://image.tsports.com/images/test/mobile_logo/1705486440-Live-2.jpg",
       "link": "https://live-cdn.tsports.com/live-02/index.m3u8",
       "headers": {
-        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1712221479:KeyName=tsports-ed25519-01:Signature=6n5Yel5X8t_qgUmOllMgHxIsastkFUb3QjA2wxMO74F3lgb659Cmu3Bjx8r4PyepRRPv12wg8xRyOHLoGHCtCw",
+        "Cookie": "Edge-Cache-Cookie=URLPrefix=aHR0cHM6Ly9saXZlLWNkbi50c3BvcnRzLmNvbS8:Expires=1712395791:KeyName=tsports-ed25519-01:Signature=1-X5t88TZfghCkU5tUs1CaBNOkJhyBgMU16M1D9af3nWTqGhTKiwuaUpG0VCR7geqmjWM25XGRiD_r45KWMyBQ",
         "Host": "live-cdn.tsports.com",
         "User-agent": "https://github.com/byte-capsule (Linux;Android 14)"
       }
